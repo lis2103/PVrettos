@@ -13,7 +13,7 @@ I'm a recent graduate with a Master's degree in Computer Science and Business Te
 
 # 🚀 Skills
 ## Technical Skills
-  - Python 🐍- MATLAB 💡- SQL 🗃️- Python Pandas 🐼- Power BI 📊 - Microsoft Office Suite 📊📁
+  - Python 🐍- SQL 🗃️- Python Pandas 🐼- Power BI 📊 - Microsoft Office Suite 📊📁
 ## Soft Skills
   - Analytical Thinking 🤔
   - Creative , out of the box thinking🎨
