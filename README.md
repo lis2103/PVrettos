@@ -25,23 +25,17 @@ I'm a recent graduate with a Master's degree in Computer Science and Business Te
 - **Master of Science in Computer Science and business technology**
   IE University
 
-- **Bachelor of accounting andd finance**
+- **Bachelor in accounting andd finance**
   Athens University of Economics and Business, 2022
 
 ## 🛠️ Projects
 
-- **[Project Name]**
-  Description: Brief description of the project.
-  Technologies Used: List of technologies/tools used.
-  GitHub Repository: [Link to the GitHub repository]
-
-- **[Another Project Name]**
-  Description: Brief description of the project.
-  Technologies Used: List of technologies/tools used.
-  GitHub Repository: [Link to the GitHub repository]
-
+- ** NGO digital transformation **
+  Description: Digital Transformation of an NGO
+  What  I did: - Helped with the creation of the site
+               - Daily updating the site
+               - Provide with solutions that needs both a technology and financial aspect.
 ## 🌐 Connect with Me
-
 - [LinkedIn] www.linkedin.com/in/vrettospantelis
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate!
